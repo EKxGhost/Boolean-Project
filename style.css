@@ -1,0 +1,65 @@
+body{
+    background-image: url('background.jpg');
+}
+
+.container{
+    width: 958.5px;
+    margin: auto;
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.logo-text{
+    color: #00dd00;
+    font-size: 40px;
+    text-align: center;
+}
+
+.button{
+    width: 20px;
+    display: inline;
+    background-color: #00dd00;
+    align-items: center;
+}
+
+.gino22{
+    color: white;
+    font-size: 20px;
+}
+
+.mike24{
+    color: white;
+    font-size: 20px;
+}
+
+.fede154{
+    color: white;
+    font-size: 20px;
+}
+
+.hr1{
+    background-color: yellow;
+    width: 600px;
+    height: 15px;
+    border-radius: 15px;
+}
+
+.hr2{
+    background-color: green;
+    width: 800px;
+    height: 15px;
+    border-radius: 15px;
+}
+
+.hr3{
+    background-color: red;
+    width: 400px;
+    height: 15px;
+    border-radius: 15px;
+}
+
